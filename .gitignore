@@ -1,0 +1,10 @@
+# MATLAB 自动生成的临时备份文件
+*.asv
+*.m~
+
+# 改造前的原始版本本地备份（不纳入远程仓库）
+backup_original/
+
+# 操作系统/编辑器临时文件
+Thumbs.db
+.DS_Store
